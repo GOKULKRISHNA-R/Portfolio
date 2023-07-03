@@ -17,8 +17,8 @@ export default function NavBar () {
         <Link to="Projects" smooth={true} duration={500} className='hover:text-black hover:font-bold whitespace-nowrap'>
           <h2>Works</h2>
         </Link>
-        <Link to="About-Me" smooth={true} duration={500} className='hover:text-black hover:font-bold whitespace-nowrap'>
-          <h2>About Me</h2>
+        <Link to="About-Me" smooth={true} duration={500} className='hover:text-black hover:font-bold'>
+          <h2>Connect</h2>
         </Link>
         </div>
       </div>
