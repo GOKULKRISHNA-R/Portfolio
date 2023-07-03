@@ -9,7 +9,7 @@ import lin from './../assets/connect/linkedin.png'
 
 export default function DashBoard () {
   return (
-    <div className="md:w-5/6 w-3/4 h-screen">
+    <div className="md:w-5/6 w-3/4 h-screen cursive">
       <div className="w-full h-screen bg-pGold flex md:items-center justify-end flex-wrap-reverse">
         <div className="xl:w-1/2 ml:mr-24 sm:mr-10 sm:ml-0 ml-8 mt-20 md:mt-0">
           <h1 className="xl:text-6xl lg:text-5xl md:text-4xl sm:text-3xl text-2xl tracking-wider underline underline-offset-4 font-extrabold mb-3">

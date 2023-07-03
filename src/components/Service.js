@@ -1,6 +1,6 @@
 import flutter from "./../assets/skills/flutter.png"
 import fb from "./../assets/skills/fb.png"
-import android from "./../assets/skills/android.jpg"
+import android from "./../assets/skills/android.png"
 import react from "./../assets/skills/react.png"
 import tail from "./../assets/skills/tailwind.png"
 import redis from "./../assets/skills/redis.png"
@@ -9,7 +9,7 @@ import Atropos from 'atropos/react'
 export default function Service() {
   return (
     <div className="h-screen md:w-5/6 w-3/4  bg-pCyan flex flex-col items-center">
-      <p className="text-4xl font-black text-pGold mt-8 ">Services</p>
+      <p className="text-4xl font-black text-pGold mt-8 cursive">Services</p>
       <div className=" h-3/4 md:h-full flex justify-between items-center flex-wrap">
         <Atropos shadow={false} className="lg:ring-4 lg:ring-offset-4 lg:ring-pGold lg:px-12 lg:py-12 md:mr-5 lg:mr-0 mx-3">
           <p className="md:text-3xl text-xl font-black text-pGold md:mb-8 mb-4">Mobile App Development</p>
