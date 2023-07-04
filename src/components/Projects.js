@@ -14,9 +14,9 @@ export default function Projects() {
         <p className="text-4xl text-black pl-8 md:ml-0 cursive">Works</p>
       </div>
       <div className="grid w-full h-5/6 gap-12 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 content-center md:ml-20 ml-8">
-        <div className="group h-28 w-60 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa flex justify-start items-center">
+        <div className="group h-24 w-56 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa flex justify-start items-center">
           <a href="https://play.google.com/store/apps/details?id=com.kec.cseautomation.kecconnect&pli=1" target="blank">
-            <div className="group h-28 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
+            <div className="group h-24 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
               <img src={kec} className="w-3/5 md:w-4/5 md:py-9 object-contain" alt="" />
               <img src={link} className="md:group-hover:block md:hidden mt-6 w-3 h-3" alt="link" />
             </div>
@@ -26,9 +26,9 @@ export default function Projects() {
             <p>Flutter App</p>
           </div>
         </div>
-        <div className="group h-28 w-60 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa flex justify-start items-center">
+        <div className="group h-24 w-56 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa flex justify-start items-center">
           <a href="https://rbckec.kongu.edu" target="blank">
-            <div className="group h-28 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
+            <div className="group h-24 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
               <img src={rbc} className="w-3/5 md:w-4/5 md:py-9 object-contain" alt="" />
               <img src={link} className="md:group-hover:block md:hidden mt-6 w-3 h-3" alt="link" />
             </div>
@@ -38,9 +38,9 @@ export default function Projects() {
             <p className="hidden md:block">React Tailwind Site</p>
           </div>
         </div>
-        <div className="group h-28 w-60 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa flex justify-start items-center">
+        <div className="group h-24 w-56 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa flex justify-start items-center">
           <a href="https://mathsclub.kongu.edu" target="blank">
-            <div className="group h-28 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
+            <div className="group h-24 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
               <img src={math} className="w-3/5 md:w-4/5 md:py-9 object-contain" alt="" />
               <img src={link} className="md:group-hover:block md:hidden mt-6 w-3 h-3" alt="link" />
             </div>
@@ -50,9 +50,9 @@ export default function Projects() {
             <p className="hidden md:block">React Tailwind Site</p>
           </div>
         </div>
-        <div className="group h-28 w-60 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa flex justify-start items-center">
+        <div className="group h-24 w-56 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa flex justify-start items-center">
           <a href="https://github.com/GOKULKRISHNA-R/Smart-Transportation" target="blank">
-            <div className="group h-28 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
+            <div className="group h-24 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
               <img src={st} className="w-3/5 md:w-4/5 md:py-9 object-contain" alt="" />
               <img src={link} className="md:group-hover:block md:hidden mt-6 w-3 h-3" alt="link" />
             </div>
@@ -62,9 +62,9 @@ export default function Projects() {
             <p className="hidden md:block" >IOT NODEMCU & Flutter App</p>
           </div>
         </div>
-        <div className="group h-28 w-60 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa flex justify-start items-center">
+        <div className="group h-24 w-56 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa flex justify-start items-center">
           <a href="https://github.com/GOKULKRISHNA-R/Credit_Exemption_Ehorizon" target="blank">
-            <div className="group h-28 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
+            <div className="group h-24 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
               <img src={ca} className="w-3/5 md:w-4/5 md:py-9 object-contain" alt="" />
               <img src={link} className="md:group-hover:block md:hidden mt-6 w-3 h-3" alt="link" />
             </div>
@@ -75,8 +75,8 @@ export default function Projects() {
             <p className="hidden md:block" >PHP MySQL</p>
           </div>
         </div>
-        <div className="hidden md:flex group h-28 w-60 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa justify-start items-center">
-            <div className="group h-28 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
+        <div className="hidden md:flex group h-24 w-56 md:h-40 md:w-72 rounded-[36px] bg-gradient-to-r from-pc via-pb to-pa justify-start items-center">
+            <div className="group h-24 md:h-40 flex justify-evenly rounded-[36px] bg-white hover:transition-all hover:w-40">
               <img src={pbm} className="py-6 mx-5 object-contain" alt="" />
             </div>
           <div className="ml-3 md:ml-6 group-hover:ml-3 ">
