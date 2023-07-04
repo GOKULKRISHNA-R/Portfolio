@@ -23,7 +23,7 @@ export default function Skills() {
       <div className="flex h-20 w-full items-center justify-center">
         <p className="text-4xl text-pBg pl-8 md:ml-0 cursive">Skills</p>
       </div>
-      <div className=" h-screen md:pl-48 grid md:grid-cols-5 grid-cols-4 content-center gap-y-16 ">
+      <div className=" h-screen md:pl-48 grid md:grid-cols-5 grid-cols-4 content-center gap-y-12 ">
             <div className="flex flex-col items-center justify-center h-fit "><img className=" md:h-20 h-12" src={c} alt="c" /> <p>C</p></div>
             <div className="flex flex-col items-center justify-center h-fit "><img className=" md:h-20 h-12" src={java} alt="java" /><p>Java</p></div>
             <div className="flex flex-col items-center justify-center h-fit "><img className=" md:h-20 h-12" src={py} alt="py" /><p>Python</p></div>
